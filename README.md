@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge\&logo=python\&color=blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-DD0031?style=for-the-badge\&logo=streamlit\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-green?style=for-the-badge)
-![License](https://img.shields.io/github/license/Rio1002/Attrition-Prediction?style=for-the-badge)
 
 ---
 
